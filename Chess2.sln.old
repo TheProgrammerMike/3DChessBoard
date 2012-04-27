@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chess2", "Chess2.vcproj", "{9411CF87-F716-4488-A6FA-B3944B2B6ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9411CF87-F716-4488-A6FA-B3944B2B6ADB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9411CF87-F716-4488-A6FA-B3944B2B6ADB}.Debug|Win32.Build.0 = Debug|Win32
+		{9411CF87-F716-4488-A6FA-B3944B2B6ADB}.Release|Win32.ActiveCfg = Release|Win32
+		{9411CF87-F716-4488-A6FA-B3944B2B6ADB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
