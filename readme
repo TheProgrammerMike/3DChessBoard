@@ -1,0 +1,7 @@
+This is a 3D chess Board in FPS (1st Person Shooter Perspective) in Irrlicht, an open source 3D engine.
+Irrlicht : irrlicht.sourceforge.net/
+You start at position inside the board.
+Use your down arrow key to move backwards out of the board.
+Use the up arrow key to move forward; left and right to move left and right, respectively.
+Use your mouse to look in a different direction.
+
